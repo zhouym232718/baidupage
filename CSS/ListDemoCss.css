@@ -1,0 +1,18 @@
+div{
+	font-size: 16px;
+	font-family: "宋体";
+	}
+h3,h4{
+	  font-family: "微软雅黑";
+	 }
+h3{
+	color: red;
+  }
+h4{
+	color: #87CEEB;
+  }
+a{
+	text-decoration: none;
+	color: royalblue;
+ }
+		
