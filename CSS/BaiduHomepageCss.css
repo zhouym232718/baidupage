@@ -14,7 +14,7 @@
 	padding-left: 7px;
 	display: inline-block;
 	border: 1px solid #38f;
-	background: url(../img/相机.png);
+	background: url(./img/相机.png);
 	background-size:35px;
 	background-position: right;
 	/* 背景图片不重复 */
